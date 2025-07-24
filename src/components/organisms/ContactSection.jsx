@@ -342,11 +342,9 @@ const ContactSection = () => {
                     ))
                   )).flat()}
                 </svg>
-              </div>
+</div>
 
               <p className="text-center text-sm text-gray-300 font-inter mt-4">
-                24/7 support across 6 global offices serving 30+ countries
-<p className="text-center text-sm text-gray-300 font-inter mt-4">
                 24/7 support across 6 global offices serving 30+ countries
               </p>
             </motion.div>
