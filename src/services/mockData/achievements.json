@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "title": "Salesforce Consulting Partner",
+    "description": "Official Salesforce Partner status with PDO certification for enterprise solutions.",
+    "year": "2023",
+    "icon": "Award",
+    "color": "electric"
+  },
+  {
+    "Id": 2,
+    "title": "14+ Years of Innovation",
+    "description": "Over a decade of pioneering AI and cloud solutions for enterprise clients.",
+    "year": "2010",
+    "icon": "Calendar",
+    "color": "cyber-purple"
+  },
+  {
+    "Id": 3,
+    "title": "1000+ Successful Projects",
+    "description": "Delivered transformative AI solutions across multiple industries worldwide.",
+    "year": "2024",
+    "icon": "Rocket",
+    "color": "cyber-blue"
+  },
+  {
+    "Id": 4,
+    "title": "500+ Global Clients",
+    "description": "Trusted by Fortune 500 companies and innovative startups across 30+ countries.",
+    "year": "2024",
+    "icon": "Globe",
+    "color": "success-glow"
+  },
+  {
+    "Id": 5,
+    "title": "100+ Certified Experts",
+    "description": "Team of highly skilled AI engineers and Salesforce certified professionals.",
+    "year": "2024",
+    "icon": "Users",
+    "color": "warning-glow"
+  }
+]

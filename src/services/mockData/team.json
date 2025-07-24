@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "name": "Alex Chen",
+    "role": "AI Architecture Lead",
+    "certifications": [
+      "Salesforce Certified Technical Architect",
+      "AWS Machine Learning Specialty",
+      "Google Cloud Professional ML Engineer"
+    ],
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#alex-linkedin",
+      "github": "#alex-github",
+      "twitter": "#alex-twitter"
+    }
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "role": "Senior AI Engineer",
+    "certifications": [
+      "Salesforce Certified Platform Developer",
+      "TensorFlow Developer Certificate",
+      "Microsoft Azure AI Engineer"
+    ],
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b429?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#sarah-linkedin",
+      "github": "#sarah-github",
+      "twitter": "#sarah-twitter"
+    }
+  },
+  {
+    "Id": 3,
+    "name": "Marcus Rodriguez",
+    "role": "Computer Vision Specialist",
+    "certifications": [
+      "Salesforce Certified App Builder",
+      "NVIDIA Deep Learning Institute",
+      "OpenCV Certified Developer"
+    ],
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#marcus-linkedin",
+      "github": "#marcus-github",
+      "twitter": "#marcus-twitter"
+    }
+  },
+  {
+    "Id": 4,
+    "name": "Dr. Emily Watson",
+    "role": "NLP Research Lead",
+    "certifications": [
+      "Salesforce Certified Integration Architect",
+      "Stanford NLP Specialization",
+      "Hugging Face Certified Transformer"
+    ],
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#emily-linkedin",
+      "github": "#emily-github",
+      "twitter": "#emily-twitter"
+    }
+  },
+  {
+    "Id": 5,
+    "name": "David Kim",
+    "role": "Salesforce Solutions Architect",
+    "certifications": [
+      "Salesforce Certified System Architect",
+      "Salesforce Certified Application Architect",
+      "Salesforce Certified Sharing and Visibility"
+    ],
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#david-linkedin",
+      "github": "#david-github",
+      "twitter": "#david-twitter"
+    }
+  },
+  {
+    "Id": 6,
+    "name": "Lisa Thompson",
+    "role": "ML Operations Engineer",
+    "certifications": [
+      "Salesforce Certified Platform Developer II",
+      "Kubernetes Certified Administrator",
+      "MLflow Certified Practitioner"
+    ],
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&h=400&fit=crop&crop=face",
+    "social": {
+      "linkedin": "#lisa-linkedin",
+      "github": "#lisa-github",
+      "twitter": "#lisa-twitter"
+    }
+  }
+]

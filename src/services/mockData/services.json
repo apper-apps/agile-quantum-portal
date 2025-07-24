@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "title": "Generative AI Solutions",
+    "description": "Custom AI models, LLMs, and creative automation tools that transform how your business creates and communicates.",
+    "icon": "Brain",
+    "features": [
+      "Custom Large Language Models",
+      "AI Content Generation",
+      "Intelligent Document Processing",
+      "Creative Automation Tools",
+      "Multi-modal AI Integration"
+    ],
+    "animationType": "neural-pulse"
+  },
+  {
+    "Id": 2,
+    "title": "Machine Learning",
+    "description": "Predictive analytics, pattern recognition, and intelligent automation that drives data-driven decision making.",
+    "icon": "Cpu",
+    "features": [
+      "Predictive Analytics",
+      "Pattern Recognition",
+      "Automated Decision Systems",
+      "Real-time Data Processing",
+      "Intelligent Forecasting"
+    ],
+    "animationType": "float"
+  },
+  {
+    "Id": 3,
+    "title": "Computer Vision",
+    "description": "Advanced image processing, object detection, and visual AI that sees and understands your business data.",
+    "icon": "Eye",
+    "features": [
+      "Image Recognition",
+      "Object Detection",
+      "Visual Quality Control",
+      "Automated Inspection",
+      "Augmented Reality Integration"
+    ],
+    "animationType": "hologram"
+  },
+  {
+    "Id": 4,
+    "title": "Natural Language Processing",
+    "description": "Intelligent chatbots, sentiment analysis, and text intelligence that understands human communication.",
+    "icon": "MessageSquare",
+    "features": [
+      "Intelligent Chatbots",
+      "Sentiment Analysis",
+      "Text Classification",
+      "Language Translation",
+      "Voice Processing"
+    ],
+    "animationType": "glitch"
+  },
+  {
+    "Id": 5,
+    "title": "Salesforce Mastery",
+    "description": "Complete Salesforce ecosystem expertise including Sales Cloud, Service Cloud, and Marketing Cloud solutions.",
+    "icon": "Cloud",
+    "features": [
+      "Sales Cloud Implementation",
+      "Service Cloud Solutions",
+      "Marketing Cloud Automation",
+      "Integration & Migration",
+      "Custom App Development"
+    ],
+    "animationType": "pulse-glow"
+  },
+  {
+    "Id": 6,
+    "title": "Custom Development",
+    "description": "Bespoke enterprise applications using Force.com, Apex, Visualforce, and seamless third-party integrations.",
+    "icon": "Code",
+    "features": [
+      "Force.com Applications",
+      "Apex Development",
+      "Visualforce Pages",
+      "Lightning Components",
+      "API Integrations"
+    ],
+    "animationType": "particle-float"
+  }
+]

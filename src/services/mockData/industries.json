@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "name": "Financial Services",
+    "description": "AI-powered risk assessment, fraud detection, and automated trading systems for the finance sector.",
+    "metrics": {
+      "efficiency": 85,
+      "accuracy": 98,
+      "cost_reduction": 60
+    },
+    "caseStudyUrl": "#financial-case-study"
+  },
+  {
+    "Id": 2,
+    "name": "Healthcare",
+    "description": "Medical imaging AI, patient data analysis, and diagnostic assistance systems for healthcare providers.",
+    "metrics": {
+      "efficiency": 78,
+      "accuracy": 95,
+      "cost_reduction": 45
+    },
+    "caseStudyUrl": "#healthcare-case-study"
+  },
+  {
+    "Id": 3,
+    "name": "Manufacturing",
+    "description": "Predictive maintenance, quality control automation, and supply chain optimization for manufacturers.",
+    "metrics": {
+      "efficiency": 92,
+      "accuracy": 89,
+      "cost_reduction": 70
+    },
+    "caseStudyUrl": "#manufacturing-case-study"
+  },
+  {
+    "Id": 4,
+    "name": "Retail",
+    "description": "Personalized recommendations, inventory optimization, and customer behavior analysis for retailers.",
+    "metrics": {
+      "efficiency": 88,
+      "accuracy": 91,
+      "cost_reduction": 55
+    },
+    "caseStudyUrl": "#retail-case-study"
+  },
+  {
+    "Id": 5,
+    "name": "High Tech",
+    "description": "Advanced analytics, product optimization, and innovation acceleration for technology companies.",
+    "metrics": {
+      "efficiency": 95,
+      "accuracy": 97,
+      "cost_reduction": 65
+    },
+    "caseStudyUrl": "#hightech-case-study"
+  },
+  {
+    "Id": 6,
+    "name": "Education",
+    "description": "Personalized learning platforms, student performance analytics, and educational content automation.",
+    "metrics": {
+      "efficiency": 82,
+      "accuracy": 87,
+      "cost_reduction": 40
+    },
+    "caseStudyUrl": "#education-case-study"
+  },
+  {
+    "Id": 7,
+    "name": "Public Sector",
+    "description": "Government process automation, citizen service optimization, and data-driven policy insights.",
+    "metrics": {
+      "efficiency": 75,
+      "accuracy": 93,
+      "cost_reduction": 50
+    },
+    "caseStudyUrl": "#public-case-study"
+  },
+  {
+    "Id": 8,
+    "name": "Media",
+    "description": "Content generation, audience analysis, and automated media production for entertainment companies.",
+    "metrics": {
+      "efficiency": 90,
+      "accuracy": 85,
+      "cost_reduction": 60
+    },
+    "caseStudyUrl": "#media-case-study"
+  }
+]
